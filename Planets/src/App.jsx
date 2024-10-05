@@ -1,5 +1,5 @@
 import './App.css';
-import Navbar from './components/Header';
+import Navbar from './components/header';
 import Footer from './components/Footer';
 import Template from './components/planet';
 import Sidelist from './components/sidelist';
