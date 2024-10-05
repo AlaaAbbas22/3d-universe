@@ -1,6 +1,6 @@
 import './App.css';
 import Navbar from './components/header';
-import Footer from './components/Footer';
+import Footer from './components/footer';
 import Template from './components/planet';
 import Sidelist from './components/sidelist';
 import React, { useState } from 'react';
